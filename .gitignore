@@ -1,0 +1,32 @@
+###############################################################################
+###               University of Hawaii, College of Engineering
+###               Lab 3 - wc - SRE - Spring 2023
+###
+### Tells git which files to ignore
+###
+### @see https://git-scm.com/docs/gitignore
+###
+### @file   .gitignore
+### @author Vinton Sistoza <sistozav@hawaii.edu>
+###############################################################################
+
+# Compiled Object files
+*.o
+*.obj
+
+# Doxgen Output
+generated_docs/
+
+# Ignore a hidden file for MacOS filesystems
+.DS_Store
+
+# Ignore vi swap files and core files
+.*.swp
+core
+
+# Ignore executable files
+*.exe
+*.out
+*.app
+wc
+*.txt

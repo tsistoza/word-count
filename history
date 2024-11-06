@@ -1,0 +1,187 @@
+    1  ls
+    2  ls -la
+    3  rm .bash_history 
+    4  sudo bash
+    5  rm -rf ~/.cache/* 
+    6  journalctl --disk-usage
+    7  systemctl --failed
+    8  journalctl -p 3 -b 
+    9  pacman -Syu  
+   10  sudo bash 
+   11  sudo bash
+   12  sudo bash
+   13  sudo bash
+   14  sudo bash
+   15  ls
+   16  cd src
+   17  git clone https://github.com/SRE-Nelson/sre_lab2_catnap-tsistoza.git
+   18  git config --global user.name "Vinton Sistoza"
+   19  git config --global user.email "sistozav@hawaii.edu"
+   20  git config --global core.autocrlf false
+   21  ls
+   22  git clone https://github.com/SRE-Nelson/sre_lab2_catnap-tsistoza.git
+   23  cd ..
+   24  ls
+   25  git clone https://github.com/SRE-Nelson/sre_lab2_catnap-tsistoza.git
+   26  ls
+   27  cd src
+   28  ls
+   29  git clone https://github.com/SRE-Nelson/sre_lab2_catnap-tsistoza.git
+   30  cd ..
+   31  ls
+   32  cd sre_lab2_catnap-tsistoza
+   33  ls
+   34  vi catnap.c
+   35  make
+   36  ./catnap
+   37  ls
+   38  cd ..
+   39  sudo bash
+   40  ls
+   41  cd src
+   42  ls
+   43  git clone https://github.com/SRE-Nelson/sre_lab2_catnap-tsistoza.git
+   44  ls
+   45  cd sre_lab2_catnap-tsistoza
+   46  ls
+   47  vi catnap.c
+   48  ls
+   49  make
+   50  ./catnap
+   51  ls
+   52  make clean
+   53  history > history
+   54  ls
+   55  git status
+   56  git add .
+   57  git status
+   58  git commit -m "Zenbook Commit"
+   59  git push
+   60  git push
+   61  ls
+   62  git status
+   63  git log
+   64  ls
+   65  cd ..
+   66  ls
+   67  ls
+   68  cd ..
+   69  ls
+   70  rm -rf sre_lab2_catnap-tsistoza
+   71  ls
+   72  cd src
+   73  ls
+   74  cd sre_lab2_catnap-tsistoza
+   75  ls
+   76  make
+   77  vi catnap.c
+   78  ls
+   79  make catnap
+   80  ./catnap
+   81  ls
+   82  make clean
+   83  cd ..
+   84  ls
+   85  cd ..
+   86  ls
+   87  exit
+   88  ls
+   89  cd src
+   90  ls
+   91  ls
+   92  ls
+   93  ls
+   94  exit
+   95  ls
+   96  cd src
+   97  ls
+   98  sudo bash
+   99  ls
+  100  cdc sre_lab2_catnap-tsistoza
+  101  cd sre_lab2_catnap-tsistoza
+  102  ls
+  103  make
+  104  ./catnap
+  105  ls
+  106  make clean
+  107  exit
+  108  cd /proc
+  109  ls
+  110  cat cpuinfo
+  111  cd self
+  112  cat maps
+  113  clear
+  114  cat maps
+  115  ls
+  116  cat maps
+  117  exit
+  118  ls
+  119  cd src
+  120  ls
+  121  git clone https://github.com/SRE-Nelson/sre_lab3_wc-tsistoza.git
+  122  ls
+  123  cd sre_lab3_wc-tsistoza
+  124  ls
+  125  git log
+  126  ls
+  127  vi wc.c
+  128  make
+  129  ls
+  130  ./wc
+  131  ls
+  132  vi test.txt
+  133  ls
+  134  ./wc
+  135  wc test.txt
+  136  vi test.txt
+  137  ls
+  138  vi wc.c
+  139  ls
+  140  vi Makefile
+  141  git add .
+  142  git commit
+  143  ls
+  144  vi test.txt
+  145  git push
+  146  ls
+  147  history > history
+  148  ls
+  149  git add .
+  150  git push
+  151  git commit
+  152  git push
+  153  ls
+  154  make clean
+  155  ls
+  156  git log
+  157  exit
+  158  ls
+  159  cd src
+  160  ls
+  161  cd sre_lab3_wc-tsistoza
+  162  ls
+  163  vi wc.c
+  164  git add .
+  165  git commit
+  166  ls
+  167  git push
+  168  ls
+  169  git log
+  170  exit
+  171  ls
+  172  sudo bash
+  173  man wc
+  174  ls
+  175  cd src
+  176  ls
+  177  cd sre_lab3_wc-tsistoza
+  178  ls
+  179  vi wc.c
+  180  ls
+  181  history > history
+  182  ls
+  183  make
+  184  ./wc
+  185  wc test.txt
+  186  clear
+  187  history > history
